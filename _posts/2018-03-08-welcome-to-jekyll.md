@@ -18,6 +18,9 @@ Our house has a fairly steep backyard. At some point the previous owners terrace
 ![picture of steep hill](/picture_of_steep_hill.jpg)
 
 1) Why now?
+  - Good weekend project
+  - want to terrace rest of hill for veggies
+  - Maria left a bunch of wood detritus i needed to figure out what to do with
 1) Show the promised land before explaining how you’ll get there
 1) The project
 1) Lessons learned
