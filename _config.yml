@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : Superman Sin Capa
 title_separator          : "|"
 name                     : "Marshall-Figueroa"
-description              : "Where thing get done in Puerto Rico by two not entirely competent amateurs."
+description              : "Where things get done in Puerto Rico by two not entirely competent amateurs."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "thejandroman/test_blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
